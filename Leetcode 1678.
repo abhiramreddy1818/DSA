@@ -1,0 +1,27 @@
+class Solution {
+    public String interpret(String command) {
+        StringBuilder sb= new StringBuilder();
+        for(int i=0;i<command.length()-1;i++){
+            if(command.charAt(i)=='(')
+              {
+                  if(command.charAt(i+1)==')')
+                  {
+                   sb.append("o");
+                   i=i+1;
+                  }
+                   else {
+                       sb.append("al");
+                       i=i+3;
+                   }
+              }
+              else 
+              {
+                  sb.append("G");
+              }
+            
+        }
+        if(command.charAt(command.length()-1)=='G')
+          sb.append("G");
+        return sb.toString();
+    }
+}
