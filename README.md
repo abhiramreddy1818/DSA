@@ -26,3 +26,19 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+# Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
