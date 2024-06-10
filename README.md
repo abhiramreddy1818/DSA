@@ -29,6 +29,7 @@
 # Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/abhiramreddy1818/DSA/tree/master/0061-rotate-list) |
 # Divide and Conquer
@@ -47,3 +48,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/abhiramreddy1818/DSA/tree/master/0061-rotate-list) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0021-merge-two-sorted-lists) |
