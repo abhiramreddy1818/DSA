@@ -3,6 +3,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/abhiramreddy1818/DSA/tree/master/1137-height-checker) |
 | [0001-two-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/abhiramreddy1818/DSA/tree/master/0035-search-insert-position) |
 
 
 # Sorting
@@ -56,3 +57,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhiramreddy1818/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/abhiramreddy1818/DSA/tree/master/0035-search-insert-position) |
