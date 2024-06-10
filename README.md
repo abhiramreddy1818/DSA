@@ -32,6 +32,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhiramreddy1818/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/abhiramreddy1818/DSA/tree/master/0061-rotate-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abhiramreddy1818/DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 # Divide and Conquer
@@ -54,3 +55,4 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhiramreddy1818/DSA/tree/master/0025-reverse-nodes-in-k-group) |
