@@ -4,11 +4,13 @@
 | [1137-height-checker](https://github.com/abhiramreddy1818/DSA/tree/master/1137-height-checker) |
 | [0001-two-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/abhiramreddy1818/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
 
 
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
 | [1137-height-checker](https://github.com/abhiramreddy1818/DSA/tree/master/1137-height-checker) |
 # Counting Sort
 |  |
@@ -19,12 +21,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abhiramreddy1818/DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 # String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
 # Sliding Window
 |  |
