@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/abhiramreddy1818/DSA/tree/master/0053-maximum-subarray) |
 | [1217-relative-sort-array](https://github.com/abhiramreddy1818/DSA/tree/master/1217-relative-sort-array) |
 | [0075-sort-colors](https://github.com/abhiramreddy1818/DSA/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/abhiramreddy1818/DSA/tree/master/0330-patching-array) |
 
 
 # Sorting
@@ -97,3 +98,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiramreddy1818/DSA/tree/master/0053-maximum-subarray) |
+# Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/abhiramreddy1818/DSA/tree/master/0330-patching-array) |
