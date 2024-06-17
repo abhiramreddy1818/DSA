@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiramreddy1818/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 # Greedy
@@ -108,8 +109,13 @@
 # Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 # Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0062-unique-paths) |
