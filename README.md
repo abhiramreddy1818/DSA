@@ -9,6 +9,7 @@
 | [1217-relative-sort-array](https://github.com/abhiramreddy1818/DSA/tree/master/1217-relative-sort-array) |
 | [0075-sort-colors](https://github.com/abhiramreddy1818/DSA/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/abhiramreddy1818/DSA/tree/master/0330-patching-array) |
+| [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 
 
 # Sorting
@@ -99,6 +100,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiramreddy1818/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 # Greedy
 |  |
 | ------- |
