@@ -98,7 +98,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiramreddy1818/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 # Greedy
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/abhiramreddy1818/DSA/tree/master/0330-patching-array) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
