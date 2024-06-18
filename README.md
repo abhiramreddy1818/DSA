@@ -73,6 +73,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/abhiramreddy1818/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhiramreddy1818/DSA/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 # Recursion
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 # Binary Tree
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 # Memoization
 |  |
 | ------- |
