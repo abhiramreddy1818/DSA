@@ -15,6 +15,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
 
 
 # Sorting
@@ -117,6 +118,7 @@
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
+| [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 # Greedy
 |  |
