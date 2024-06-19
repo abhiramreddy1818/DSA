@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 
 
 # Sorting
@@ -99,6 +100,7 @@
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Binary Tree
 |  |
 | ------- |
