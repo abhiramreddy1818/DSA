@@ -14,6 +14,7 @@
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
+| [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 
 
 # Sorting
@@ -116,6 +117,7 @@
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
+| [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 # Greedy
 |  |
 | ------- |
@@ -140,3 +142,4 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
