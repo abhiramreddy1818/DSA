@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 
 
 # Sorting
@@ -112,6 +113,7 @@
 | [0062-unique-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 # Greedy
