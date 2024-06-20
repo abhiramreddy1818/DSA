@@ -16,6 +16,7 @@
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 
 
 # Sorting
@@ -26,6 +27,7 @@
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/abhiramreddy1818/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/abhiramreddy1818/DSA/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 # Counting Sort
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
