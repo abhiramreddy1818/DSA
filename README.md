@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [0056-merge-intervals](https://github.com/abhiramreddy1818/DSA/tree/master/0056-merge-intervals) |
+| [0031-next-permutation](https://github.com/abhiramreddy1818/DSA/tree/master/0031-next-permutation) |
 
 
 # Sorting
@@ -79,6 +80,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/abhiramreddy1818/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/abhiramreddy1818/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhiramreddy1818/DSA/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
