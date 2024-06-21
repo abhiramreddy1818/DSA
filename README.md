@@ -17,12 +17,14 @@
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [0056-merge-intervals](https://github.com/abhiramreddy1818/DSA/tree/master/0056-merge-intervals) |
 
 
 # Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/abhiramreddy1818/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhiramreddy1818/DSA/tree/master/0075-sort-colors) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/abhiramreddy1818/DSA/tree/master/1137-height-checker) |
