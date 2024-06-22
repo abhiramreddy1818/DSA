@@ -19,6 +19,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [0056-merge-intervals](https://github.com/abhiramreddy1818/DSA/tree/master/0056-merge-intervals) |
 | [0031-next-permutation](https://github.com/abhiramreddy1818/DSA/tree/master/0031-next-permutation) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 
 
 # Sorting
@@ -45,6 +46,7 @@
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
 | [1217-relative-sort-array](https://github.com/abhiramreddy1818/DSA/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abhiramreddy1818/DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Memoization
 |  |
 | ------- |
