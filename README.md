@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/abhiramreddy1818/DSA/tree/master/0056-merge-intervals) |
 | [0031-next-permutation](https://github.com/abhiramreddy1818/DSA/tree/master/0031-next-permutation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 
 
 # Sorting
@@ -59,6 +60,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Linked List
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramreddy1818/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Merge Sort
 |  |
 | ------- |
@@ -156,3 +159,15 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
