@@ -105,22 +105,26 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramreddy1818/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramreddy1818/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/abhiramreddy1818/DSA/tree/master/0853-most-profit-assigning-work) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramreddy1818/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiramreddy1818/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhiramreddy1818/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramreddy1818/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Dynamic Programming
 |  |
 | ------- |
