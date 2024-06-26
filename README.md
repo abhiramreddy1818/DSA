@@ -21,6 +21,7 @@
 | [0031-next-permutation](https://github.com/abhiramreddy1818/DSA/tree/master/0031-next-permutation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1121-partition-array-for-maximum-sum](https://github.com/abhiramreddy1818/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 
 
 # Sorting
@@ -139,6 +140,7 @@
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/abhiramreddy1818/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 # Greedy
 |  |
 | ------- |
