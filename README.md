@@ -54,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiramreddy1818/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abhiramreddy1818/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhiramreddy1818/DSA/tree/master/0076-minimum-window-substring) |
+| [0132-palindrome-partitioning-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0132-palindrome-partitioning-ii) |
 # Sliding Window
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0064-minimum-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/abhiramreddy1818/DSA/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
