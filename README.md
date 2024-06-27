@@ -22,6 +22,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1121-partition-array-for-maximum-sum](https://github.com/abhiramreddy1818/DSA/tree/master/1121-partition-array-for-maximum-sum) |
+| [0909-stone-game](https://github.com/abhiramreddy1818/DSA/tree/master/0909-stone-game) |
 
 
 # Sorting
@@ -139,6 +140,7 @@
 | [0198-house-robber](https://github.com/abhiramreddy1818/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0909-stone-game](https://github.com/abhiramreddy1818/DSA/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/abhiramreddy1818/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/abhiramreddy1818/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 # Greedy
@@ -153,6 +155,7 @@
 | [0070-climbing-stairs](https://github.com/abhiramreddy1818/DSA/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/abhiramreddy1818/DSA/tree/master/0233-number-of-digit-one) |
 | [0633-sum-of-square-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0909-stone-game](https://github.com/abhiramreddy1818/DSA/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Memoization
 |  |
@@ -183,3 +186,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1916-find-center-of-star-graph) |
+# Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/abhiramreddy1818/DSA/tree/master/0909-stone-game) |
