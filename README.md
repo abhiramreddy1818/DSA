@@ -179,3 +179,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhiramreddy1818/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1916-find-center-of-star-graph) |
