@@ -1,28 +1,30 @@
 class Solution {
     public boolean stoneGame(int[] nums) {
         int n = nums.length;
-        Boolean dp[][]=new Boolean [n][n];
-        return find(0, n - 1, nums, 0, 0, true,dp);
+        boolean[][] dp = new boolean[n][n];
+        
+        // If there's only one stone, the starting player wins by picking it.
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = true;
+        }
+
+        
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) {
+                int j = i + len - 1;
+                dp[i][j] = (nums[i] + sum(nums, i + 1, j) > sum(nums, i, j - 1)) ||
+                           (nums[j] + sum(nums, i, j - 1) > sum(nums, i + 1, j));
+            }
+        }
+        
+        return dp[0][n - 1];
     }
-    
-    public boolean find(int i, int j, int nums[], int a, int b, boolean flag,Boolean  dp[][]) {
-        if (i > j) {
-            return a > b;
+
+    private int sum(int[] nums, int start, int end) {
+        int sum = 0;
+        for (int i = start; i <= end; i++) {
+            sum += nums[i];
         }
-        
-        boolean pickStart = false;
-        boolean pickEnd = false;
-        if(dp[i][j]!=null){
-            return dp[i][j];
-        }
-        if (flag) {
-            pickStart = find(i + 1, j, nums, a + nums[i], b, !flag,dp);
-            pickEnd = find(i, j - 1, nums, a + nums[j], b, !flag,dp);
-        } else {
-            pickStart = find(i + 1, j, nums, a, b + nums[i], !flag,dp);
-            pickEnd = find(i, j - 1, nums, a, b + nums[j], !flag,dp);
-        }
-        
-        return dp[i][j]=pickStart || pickEnd;
+        return sum;
     }
 }
