@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,4 +213,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
