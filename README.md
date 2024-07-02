@@ -198,15 +198,18 @@
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -258,4 +261,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
