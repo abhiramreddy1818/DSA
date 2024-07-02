@@ -197,6 +197,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -226,14 +227,17 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
@@ -260,6 +264,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 ## Hash Table
 |  |
