@@ -274,4 +274,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/abhiramreddy1818/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
