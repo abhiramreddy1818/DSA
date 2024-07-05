@@ -203,6 +203,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -250,6 +253,7 @@
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -278,6 +282,7 @@
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
