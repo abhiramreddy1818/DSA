@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
+| [2645-pass-the-pillow](https://github.com/abhiramreddy1818/DSA/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
@@ -305,4 +306,5 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhiramreddy1818/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/abhiramreddy1818/DSA/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
