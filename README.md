@@ -243,6 +243,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
@@ -320,4 +321,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
