@@ -204,6 +204,7 @@
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
+| [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -220,10 +221,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
