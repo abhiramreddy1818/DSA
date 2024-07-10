@@ -17,19 +17,17 @@ class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root==null)
         return true;
-       
-       
-        return find(root) !=-1;
+        int lh=find(root.left);
+        int rh=find(root.right);
+        if(Math.abs(rh-lh)>1)
+        return false;
+        return isBalanced(root.left) && isBalanced(root.right);
     }
     public int  find (TreeNode root){
         if(root==null)
          return 0;
          int lh=find(root.left);
          int rh=find(root.right);
-         if(lh ==-1 || rh==-1)
-         return -1;
-        if(Math.abs(rh-lh)>1)
-                return -1;
          return 1+Math.max(rh,lh); 
     }
 }
