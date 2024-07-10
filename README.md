@@ -246,6 +246,7 @@
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
@@ -325,8 +326,10 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
