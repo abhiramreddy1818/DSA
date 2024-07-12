@@ -222,11 +222,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -335,4 +337,8 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
