@@ -206,6 +206,7 @@
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,11 +334,13 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
 | ------- |
