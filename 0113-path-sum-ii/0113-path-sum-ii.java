@@ -17,14 +17,13 @@ import java.util.List;
  * }
  */
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
-    
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        find(root, targetSum, new ArrayList<>());
+        List<List<Integer>> ans = new ArrayList<>();
+        find(root, targetSum, new ArrayList<>(), ans);
         return ans;
     }
     
-    public void find(TreeNode root, int k, List<Integer> list) {
+    public void find(TreeNode root, int k, List<Integer> list, List<List<Integer>> ans) {
         if (root == null) {
             return;
         }
@@ -34,10 +33,9 @@ class Solution {
         
         if (k == 0 && root.left == null && root.right == null) {
             ans.add(new ArrayList<>(list));  // Add a copy of the list
-            // Return to avoid further unnecessary recursion
         } else {
-            find(root.left, k, list);
-            find(root.right, k, list);
+            find(root.left, k, list, ans);
+            find(root.right, k, list, ans);
         }
         
         list.remove(list.size() - 1);  // Backtrack to remove the current node
