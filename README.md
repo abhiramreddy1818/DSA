@@ -261,6 +261,7 @@
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiramreddy1818/DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0113-path-sum-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiramreddy1818/DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -351,6 +353,7 @@
 | [0113-path-sum-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramreddy1818/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiramreddy1818/DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
