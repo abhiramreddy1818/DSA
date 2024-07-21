@@ -207,6 +207,7 @@
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
+| [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,10 +280,12 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhiramreddy1818/DSA/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhiramreddy1818/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
