@@ -204,6 +204,7 @@
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
+| [1333-sort-the-jumbled-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -220,6 +221,7 @@
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
