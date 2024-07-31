@@ -205,6 +205,7 @@
 | [0948-sort-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
+| [1196-filling-bookcase-shelves](https://github.com/abhiramreddy1818/DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -393,4 +394,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1196-filling-bookcase-shelves](https://github.com/abhiramreddy1818/DSA/tree/master/1196-filling-bookcase-shelves) |
 <!---LeetCode Topics End-->
