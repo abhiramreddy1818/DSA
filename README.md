@@ -212,6 +212,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
+| [2727-number-of-senior-citizens](https://github.com/abhiramreddy1818/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0257-binary-tree-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0257-binary-tree-paths) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/abhiramreddy1818/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
