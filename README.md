@@ -202,6 +202,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/abhiramreddy1818/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
@@ -257,6 +258,7 @@
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/abhiramreddy1818/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/abhiramreddy1818/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhiramreddy1818/DSA/tree/master/1073-number-of-enclaves) |
 | [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
@@ -342,6 +344,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/abhiramreddy1818/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/abhiramreddy1818/DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhiramreddy1818/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
