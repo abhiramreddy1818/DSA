@@ -200,6 +200,7 @@
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/abhiramreddy1818/DSA/tree/master/0921-spiral-matrix-iii) |
@@ -323,6 +324,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/abhiramreddy1818/DSA/tree/master/1196-filling-bookcase-shelves) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
