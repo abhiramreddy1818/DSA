@@ -1,33 +1,20 @@
-import java.time.LocalTime;
-import java.time.temporal.ChronoUnit;
-import java.util.Collections;
-import java.util.List;
-
 class Solution {
-    public int findMinDifference(List<String> list) {
-        int n = list.size();
-        if (n == 0) {
-            return 0;
+    public int findMinDifference(List<String> time) {
+        int n=time.size();
+        int minutes [] = new int[n];
+        for(int i = 0 ; i < n ; i++){
+         int h = Integer.parseInt(time.get(i).substring(0, 2));
+         int m = Integer.parseInt(time.get(i).substring(3));
+
+            minutes[i] = h * 60 + m;
+
+        }
+        Arrays.sort(minutes);
+        int min = Integer.MAX_VALUE;
+        for(int i = 1 ; i < n ;i++){
+            min=Math.min(min , minutes[i]-minutes[i-1]);
         }
 
-        Collections.sort(list);
-        int minDifference = Integer.MAX_VALUE;
-
-        for (int i = 1; i < n; i++) {
-            int minutesDifference = calculateMinuteDifference(list.get(i), list.get(i - 1));
-            minDifference = Math.min(minDifference, minutesDifference);
-        }
-
-        int circularDifference = calculateMinuteDifference(list.get(n - 1), list.get(0));
-        minDifference = Math.min(minDifference, circularDifference);
-
-        return minDifference;
-    }
-
-    public static int calculateMinuteDifference(String time1, String time2) {
-        LocalTime t1 = LocalTime.parse(time1);
-        LocalTime t2 = LocalTime.parse(time2);
-        long minutesDifference = Math.abs(ChronoUnit.MINUTES.between(t1, t2));
-        return Math.min((int) minutesDifference, 1440 - (int) minutesDifference);
+       return Math.min(min, 24 * 60 - minutes[minutes.length - 1] + minutes[0]);
     }
 }
