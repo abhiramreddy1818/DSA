@@ -202,6 +202,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
 | [0733-flood-fill](https://github.com/abhiramreddy1818/DSA/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/abhiramreddy1818/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0948-sort-an-array) |
@@ -227,6 +228,7 @@
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhiramreddy1818/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0257-binary-tree-paths) |
+| [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
 | [1720-crawler-log-folder](https://github.com/abhiramreddy1818/DSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/abhiramreddy1818/DSA/tree/master/2727-number-of-senior-citizens) |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
+| [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/abhiramreddy1818/DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/abhiramreddy1818/DSA/tree/master/2645-pass-the-pillow) |
