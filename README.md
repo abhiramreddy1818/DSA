@@ -198,6 +198,7 @@
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/abhiramreddy1818/DSA/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/abhiramreddy1818/DSA/tree/master/0130-surrounded-regions) |
+| [0179-largest-number](https://github.com/abhiramreddy1818/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/abhiramreddy1818/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiramreddy1818/DSA/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/abhiramreddy1818/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiramreddy1818/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiramreddy1818/DSA/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/abhiramreddy1818/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/abhiramreddy1818/DSA/tree/master/0257-binary-tree-paths) |
 | [0539-minimum-time-difference](https://github.com/abhiramreddy1818/DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhiramreddy1818/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -388,6 +391,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/abhiramreddy1818/DSA/tree/master/0179-largest-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhiramreddy1818/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
