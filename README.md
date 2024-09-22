@@ -423,4 +423,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhiramreddy1818/DSA/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhiramreddy1818/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
