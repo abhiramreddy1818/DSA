@@ -218,6 +218,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/abhiramreddy1818/DSA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/abhiramreddy1818/DSA/tree/master/2727-number-of-senior-citizens) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhiramreddy1818/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhiramreddy1818/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
