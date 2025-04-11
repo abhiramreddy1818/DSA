@@ -261,6 +261,7 @@
 | [1642-water-bottles](https://github.com/abhiramreddy1818/DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/abhiramreddy1818/DSA/tree/master/2645-pass-the-pillow) |
+| [2998-count-symmetric-integers](https://github.com/abhiramreddy1818/DSA/tree/master/2998-count-symmetric-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -429,4 +430,8 @@
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhiramreddy1818/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/abhiramreddy1818/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
