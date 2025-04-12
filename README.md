@@ -262,6 +262,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhiramreddy1818/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/abhiramreddy1818/DSA/tree/master/2645-pass-the-pillow) |
 | [2998-count-symmetric-integers](https://github.com/abhiramreddy1818/DSA/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhiramreddy1818/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhiramreddy1818/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhiramreddy1818/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhiramreddy1818/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhiramreddy1818/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhiramreddy1818/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -434,4 +436,9 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/abhiramreddy1818/DSA/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhiramreddy1818/DSA/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/abhiramreddy1818/DSA/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
